@@ -22,7 +22,6 @@ int main(){
 	{"MI6","CIA","ISI","N.O.T"},
 	{"Heraclitus","phythagoras","Anaximander","Thales"},
 	{"LMP Edgar","CMP Stuart","Neil Armstrong","None of them"},
-	{"National Assembly","National people’s Congress","Fedral parliament","None"},
 	{"Europe","Asia","Africa","America"},
 	{"Washington Dc","Alaska","Hawaii","California"},
 	{"Argentina","Israel","Jordan","Egypt"},
@@ -30,7 +29,6 @@ int main(){
 					    };
 	string correctOptions[10] = {
 		"Chile","America","CIA","Anaximander",
-		"Neil Armstrong","National people’s Congress","Africa",
 		"Washington DC","Jordan","Pacific Ocean"
 								};
 	int userOptions[10] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
